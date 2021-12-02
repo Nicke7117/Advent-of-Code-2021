@@ -1,0 +1,1 @@
+C:\Users\nikol\Desktop\Programming\ projects\Advent-of-Code-2021\challenges\Day-1\Part-1\target\debug\Part-1.exe: C:\Users\nikol\Desktop\Programming\ projects\Advent-of-Code-2021\challenges\Day-1\Part-1\src\main.rs
