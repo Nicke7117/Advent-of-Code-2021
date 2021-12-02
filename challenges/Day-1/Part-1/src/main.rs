@@ -1,6 +1,4 @@
 use std::fs::read_to_string;
-use std::io::{self, prelude::*, BufReader};
-use std::ptr;
 
 fn main() {
     let file = read_to_string("input.txt").unwrap();
