@@ -1,6 +1,5 @@
 use std::collections::HashMap;
 use std::fs;
-use std::num::Wrapping;
 
 fn main() {
     let data = fs::read_to_string("input.txt").expect("Failed to read input.txt");
